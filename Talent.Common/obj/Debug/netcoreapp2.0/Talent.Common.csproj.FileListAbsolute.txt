@@ -1,0 +1,9 @@
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.deps.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csprojAssemblyReference.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb

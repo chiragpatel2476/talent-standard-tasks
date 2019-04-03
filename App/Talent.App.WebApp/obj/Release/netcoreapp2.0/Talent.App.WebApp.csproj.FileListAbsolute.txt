@@ -1,0 +1,11 @@
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\Talent.App.WebApp.deps.json
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.json
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.dev.json
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\Talent.App.WebApp.dll
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\Talent.App.WebApp.pdb
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.csprojAssemblyReference.cache
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.csproj.CoreCompileInputs.cache
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.AssemblyInfoInputs.cache
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.dll
+H:\industryconnect\Internship\Task 3\Project\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\Talent.App.WebApp.pdb

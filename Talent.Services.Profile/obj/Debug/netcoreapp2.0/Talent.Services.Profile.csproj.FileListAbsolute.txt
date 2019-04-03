@@ -1,0 +1,14 @@
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.deps.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csprojAssemblyReference.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CoreCompileInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfoInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CopyComplete
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb

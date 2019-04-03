@@ -1,0 +1,16 @@
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.deps.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csprojAssemblyReference.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CoreCompileInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfoInputs.cache
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfo.cs
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CopyComplete
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+H:\industryconnect\Internship\Task 3\Project\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
